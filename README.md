@@ -36,6 +36,7 @@
 -🚀 Top 24 Teams — Smart India Hackathon 2025
 
 **📖 Currently Learning** -> DSA IN JAVA and NETWORKING
+
 **💼 Open To**
 ![Internships](https://img.shields.io/badge/-Internships-7dd3fc?style=flat-square&logoColor=black)
 ![Software Dev Roles](https://img.shields.io/badge/-Software%20Dev%20Roles-7dd3fc?style=flat-square&logoColor=black)
