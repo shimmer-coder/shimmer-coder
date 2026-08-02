@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Shimmer%20Goyal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20IT%20Student%20%7C%20Java%20%26%20Python%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+C%2B%2B+Developer;Building+Database-Driven+Applications;Placement+Management+System+Creator;Top+24+Team+%40+Smart+India+Hackathon+2025" alt="Typing SVG" />
-</a>
-
 <img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=probot&logoColor=black" alt="Open to Work"/>
 
 <br/><br/>
