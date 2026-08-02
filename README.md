@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=250&section=header&text=Shimmer%20Goyal&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20IT%20Student%20%7C%20Java%20%26%20Python%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+# 🌟 Shimmer Goyal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=Shimmer+Goyal" alt="Name Animation" />
-
-<br/>
+### B.Tech IT Student | Java & Python Developer
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=probot&logoColor=black" alt="Open to Work"/>
 
@@ -35,10 +33,8 @@
 - 📖 Currently learning: DSA in Java and Networking
 - 📜 Certified in Python Programming, OOP with C++, and OOP with Core Java
 - 💼 Open to Internships, Software Development Roles & Open Source Collaboration
-**📜 Certifications**
-Python Programming — Feb 2026
-OOP using C++ — Jan 2026
-OOP using Core Java — Mar 2026
+
+<br/>
 
 ## 🚀 Featured Projects
 
