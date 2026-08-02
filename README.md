@@ -30,8 +30,11 @@
 ### 👋 WHO I AM
 
 -B.Tech Information Technology Student, building database-driven applications with Java & Python.
+
 -🥈 2nd Prize — GGSIPU Hackathon 2025
+
 -🚀 Top 24 Teams — Smart India Hackathon 2025
+
 **📖 Currently Learning** -> DSA IN JAVA and NETWORKING
 **💼 Open To**
 ![Internships](https://img.shields.io/badge/-Internships-7dd3fc?style=flat-square&logoColor=black)
