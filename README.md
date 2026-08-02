@@ -42,10 +42,6 @@
 
 Java-JDBC based system integrated with MySQL to automate student registration, company records, and placement tracking using optimized CRUD operations.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimmer-coder&repo=Placement-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Placement Management System"/>
-</div>
-
 | Layer | Technology |
 |---|---|
 | Language | Java |
@@ -59,10 +55,6 @@ Java-JDBC based system integrated with MySQL to automate student registration, c
 ### 📌 Inventory Management System
 
 Python-MySQL inventory application enabling stock tracking, product management, and database-driven record maintenance through efficient CRUD operations.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimmer-coder&repo=Inventory-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Inventory Management System"/>
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -110,12 +102,6 @@ Python-MySQL inventory application enabling stock tracking, product management, 
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shimmer-coder/shimmer-coder/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -125,5 +111,3 @@ Python-MySQL inventory application enabling stock tracking, product management, 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimmer-coder)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
