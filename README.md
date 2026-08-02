@@ -41,7 +41,7 @@ B.Tech Information Technology Student, building database-driven applications wit
 🚀 Top 24 Teams — Smart India Hackathon 2025
 
 **📖 Currently Learning**
-Core Java & OOP (latest cert — March 2026)
+DSA IN JAVA and NETWORKING
 
 </td>
 <td width="50%" valign="top">
