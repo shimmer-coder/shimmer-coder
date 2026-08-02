@@ -21,31 +21,18 @@
 
 <div align="center">
 
-**📍 Delhi, India** &nbsp;|&nbsp; 🎓 **B.Tech IT @ GGSIPU (2024–2028)** &nbsp;|&nbsp; ⚡ **Currently sharpening OOP & Core Java**
+**📍 Delhi, India** &nbsp;|&nbsp; 🎓 **B.Tech IT @ GGSIPU (2024–2028)** &nbsp;|&nbsp; ⚡ **Currently sharpening DSA IN JAVA**
 
 </div>
 
 <br/>
 
-### 👋 Who I Am
+### 👋 WHO I AM
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎯 Focus**
-B.Tech Information Technology Student, building database-driven applications with Java & Python.
-
-**🏆 Status**
-🥈 2nd Prize — GGSIPU Hackathon 2025
-🚀 Top 24 Teams — Smart India Hackathon 2025
-
-**📖 Currently Learning**
-DSA IN JAVA and NETWORKING
-
-</td>
-<td width="50%" valign="top">
-
+-B.Tech Information Technology Student, building database-driven applications with Java & Python.
+-🥈 2nd Prize — GGSIPU Hackathon 2025
+-🚀 Top 24 Teams — Smart India Hackathon 2025
+**📖 Currently Learning** -> DSA IN JAVA and NETWORKING
 **💼 Open To**
 ![Internships](https://img.shields.io/badge/-Internships-7dd3fc?style=flat-square&logoColor=black)
 ![Software Dev Roles](https://img.shields.io/badge/-Software%20Dev%20Roles-7dd3fc?style=flat-square&logoColor=black)
@@ -55,12 +42,6 @@ DSA IN JAVA and NETWORKING
 Python Programming — Feb 2026
 OOP using C++ — Jan 2026
 OOP using Core Java — Mar 2026
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 🚀 Featured Projects
 
