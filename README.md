@@ -1,8 +1,8 @@
 <div align="center">
-
+# SHIMMER GOYAL
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Shimmer%20Goyal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20IT%20Student%20%7C%20Java%20%26%20Python%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=probot&logoColor=black" alt="SHIMMER GOYAL"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=probot&logoColor=black" alt="Open To Work"/>
 
 <br/><br/>
 
