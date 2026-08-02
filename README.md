@@ -1,9 +1,12 @@
 <div align="center">
-# SHIMMER GOYAL
-  <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Shimmer%20Goyal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20IT%20Student%20%7C%20Java%20%26%20Python%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=probot&logoColor=black" alt="Open To Work"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=250&section=header&text=Shimmer%20Goyal&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20IT%20Student%20%7C%20Java%20%26%20Python%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=Shimmer+Goyal" alt="Name Animation" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=probot&logoColor=black" alt="Open to Work"/>
 
 <br/><br/>
 
@@ -18,27 +21,20 @@
 
 <div align="center">
 
-**📍 Delhi, India** &nbsp;|&nbsp; 🎓 **B.Tech IT @ GGSIPU (2024–2028)** &nbsp;|&nbsp; ⚡ **Currently sharpening DSA IN JAVA**
+**📍 Delhi, India** &nbsp;|&nbsp; 🎓 **B.Tech IT @ GGSIPU (2024–2028)** &nbsp;|&nbsp; ⚡ **Currently sharpening DSA in Java**
 
 </div>
 
 <br/>
 
-### 👋 WHO I AM
+### 👋 Who I Am
 
--B.Tech Information Technology Student, building database-driven applications with Java & Python.
-
--🥈 2nd Prize — GGSIPU Hackathon 2025
-
--🚀 Top 24 Teams — Smart India Hackathon 2025
-
-**📖 Currently Learning** -> DSA IN JAVA and NETWORKING
-
-**💼 Open To**
-![Internships](https://img.shields.io/badge/-Internships-7dd3fc?style=flat-square&logoColor=black)
-![Software Dev Roles](https://img.shields.io/badge/-Software%20Dev%20Roles-7dd3fc?style=flat-square&logoColor=black)
-![Open Source](https://img.shields.io/badge/-Open%20Source-7dd3fc?style=flat-square&logoColor=black)
-
+- 🎯 B.Tech Information Technology Student, building database-driven applications with Java & Python
+- 🏆 2nd Prize — GGSIPU Hackathon 2025
+- 🚀 Top 24 Teams — Smart India Hackathon 2025
+- 📖 Currently learning: DSA in Java and Networking
+- 📜 Certified in Python Programming, OOP with C++, and OOP with Core Java
+- 💼 Open to Internships, Software Development Roles & Open Source Collaboration
 **📜 Certifications**
 Python Programming — Feb 2026
 OOP using C++ — Jan 2026
